@@ -1,0 +1,16 @@
+body{
+    color: white;
+    background-color: darkblue;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.Name_Of_Objects{
+    color: yellow;
+}
+#camera{
+    border: 2px dashed yellow;
+    width: 350px;
+    height: 300px;
+}
